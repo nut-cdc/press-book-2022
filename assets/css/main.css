@@ -4217,6 +4217,7 @@ input, select, textarea {
 		font-size: 0.9em;
 		margin: 0rem 0.25em;
 		padding: 2rem; /*0.25em 0.65em;*/
+		padding-bottom: 0rem;
 	}
 
 	.content-block-defenses {
@@ -4226,6 +4227,7 @@ input, select, textarea {
 		font-size: 0.9em;
 		margin: 0rem 0.25em;
 		padding: 2rem;
+		padding-bottom: 0rem;
 		-webkit-border-radius: 5px;
 		-moz-border-radius: 5px;
 		-ms-border-radius: 5px;
@@ -4239,6 +4241,7 @@ input, select, textarea {
 		font-size: 0.9em;
 		margin: 0rem 0.25em;
 		padding: 2rem; 
+		padding-bottom: 0rem;
 	}
 
 	.content-block-detente {
@@ -4248,6 +4251,7 @@ input, select, textarea {
 		font-size: 0.9em;
 		margin: 0rem 0.25em;
 		padding: 2rem; 
+		padding-bottom: 0rem;
 	}
 
 	.content-block-vitalite {
@@ -4257,6 +4261,7 @@ input, select, textarea {
 		font-size: 0.9em;
 		margin: 0rem 0.25em;
 		padding: 2rem; 
+		padding-bottom: 0rem;
 	}
 	
 	.content-block-circulation {
@@ -4266,6 +4271,7 @@ input, select, textarea {
 		font-size: 0.9em;
 		margin: 0rem 0.25em;
 		padding: 2rem; 
+		padding-bottom: 0rem;
 	}
 
 	.content-block-osteo {
@@ -4275,6 +4281,7 @@ input, select, textarea {
 		font-size: 0.9em;
 		margin: 0rem 0.25em;
 		padding: 2rem; 
+		padding-bottom: 0rem;
 	}
 
 	.content-block-femme {
@@ -4284,6 +4291,7 @@ input, select, textarea {
 		font-size: 0.9em;
 		margin: 0rem 0.25em;
 		padding: 2rem; 
+		padding-bottom: 0rem;
 	}
 
 	.content-block-enfants {
@@ -4293,6 +4301,7 @@ input, select, textarea {
 		font-size: 0.9em;
 		margin: 0rem 0.25em;
 		padding: 2rem; 
+		padding-bottom: 0rem;
 	}
 
 	.content-block-phyto {
@@ -4302,6 +4311,7 @@ input, select, textarea {
 		font-size: 0.9em;
 		margin: 0rem 0.25em;
 		padding: 2rem; 
+		padding-bottom: 0rem;
 	}
 
 	.content-block-microbiote {
@@ -4311,6 +4321,7 @@ input, select, textarea {
 		font-size: 0.9em;
 		margin: 0rem 0.25em;
 		padding: 2rem; 
+		padding-bottom: 0rem;
 	}
 
 	.content-block-corporate {
@@ -4320,6 +4331,7 @@ input, select, textarea {
 		font-size: 0.9em;
 		margin: 0rem 0.25em;
 		padding: 2rem; 
+		padding-bottom: 0rem;
 	}
 
 	span.image.fit img {
