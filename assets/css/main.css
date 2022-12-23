@@ -4499,7 +4499,8 @@ input, select, textarea {
 
 				#footer .inner ul.contact.right {
 					position: relative;
-					bottom: -1rem;
+					/*bottom: -1rem;*/
+					margin-top: 2.5rem;
 				}
 	}
 
@@ -4531,6 +4532,7 @@ input, select, textarea {
 					position: relative;
 					/*left: 4rem;*/
 					bottom: -0.25rem;
+					margin-top: 1.5rem;
 				}
 
 	}
@@ -4544,6 +4546,7 @@ input, select, textarea {
 		#footer .inner ul.contact.right {
 			position: relative;
 			/*left: 6rem;*/
+			margin-top: 1rem;
 		}
 	}
 
